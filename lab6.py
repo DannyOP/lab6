@@ -5,7 +5,7 @@ NAME: Jasper Koppen & Danny Opdam
 STUDENT ID: 11302445
 
 DESCRIPTION:
-
+yadayada
 """
 import sys
 import struct
